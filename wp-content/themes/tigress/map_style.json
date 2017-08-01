@@ -1,0 +1,10 @@
+<?php
+add_action('wp_enqueue_scripts', 'my_enqueue_scripts');
+function my_enqueue_scripts() {
+wp_enqueue_script('google-maps', 'https://maps.googleapis.com/maps/api/js?v=3&sensor=false', array(), null, true);
+wp_enqueue_script('script', get_stylesheet_directory_uri() . '/js/script.js', array('google-maps'), null, true);
+wp_localize_script( 'script', 'wpGlobals', array(
+'mapOptions' => file_get_contents( dirname(__FILE__) . '/map_style.json' )
+) );
+}
+?>
