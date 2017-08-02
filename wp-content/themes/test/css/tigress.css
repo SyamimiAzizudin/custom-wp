@@ -1,0 +1,352 @@
+/* PLUGIN PATH
+ * -------------------------- */
+img.wp-smiley,
+img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
+}
+flash-style-inline-css {
+
+/* Custom Link Color */
+#site-navigation ul li:hover > a, #site-navigation ul li.current-menu-item > a, #site-navigation ul li.current_page_item > a, #site-navigation ul.sub-menu li:hover > a, #site-navigation ul li ul.sub-menu li.menu-item-has-children ul li:hover > a, #site-navigation ul li ul.sub-menu li.menu-item-has-children:hover > .menu-item, body.transparent #masthead .header-bottom #site-navigation ul li:hover > .menu-item, body.transparent #masthead .header-bottom #site-navigation ul li:hover > a, body.transparent #masthead .header-bottom #site-navigation ul.sub-menu li:hover > a, body.transparent #masthead .header-bottom #site-navigation ul.sub-menu li.menu-item-has-children ul li:hover > a, body.transparent.header-sticky #masthead-sticky-wrapper #masthead .header-bottom #site-navigation ul.sub-menu li > a:hover, .tg-service-widget .service-title-wrap a:hover, .tg-service-widget .service-more, .feature-product-section .button-group button:hover, .fun-facts-section .fun-facts-icon-wrap, .fun-facts-section .tg-fun-facts-widget.tg-fun-facts-layout-2 .counter-wrapper, .blog-section .tg-blog-widget-layout-2 .blog-content .read-more-container .read-more a, footer.footer-layout #top-footer .widget-title::first-letter, footer.footer-layout #top-footer .widget ul li a:hover, footer.footer-layout #bottom-footer .copyright .copyright-text a:hover, footer.footer-layout #bottom-footer .footer-menu ul li a:hover, .archive #primary .entry-content-block h2.entry-title a:hover, .blog #primary .entry-content-block h2.entry-title a:hover, #secondary .widget ul li a:hover, .woocommerce-Price-amount.amount, .team-wrapper .team-content-wrapper .team-social a:hover, .testimonial-container .testimonial-wrapper .testimonial-slide .testominial-content-wrapper .testimonial-icon, .footer-menu li a:hover, .tg-feature-product-filter-layout .button.is-checked:hover, .testimonial-container .testimonial-icon, #site-navigation ul li.menu-item-has-children:hover > .sub-toggle, .woocommerce-error::before, .woocommerce-info::before, .woocommerce-message::before, #primary .post .entry-content-block .entry-meta a:hover, #primary .post .entry-content-block .entry-meta span:hover, .entry-meta span:hover a, .post .entry-content-block .entry-footer span a:hover, #secondary .widget ul li a, #comments .comment-list article.comment-body .reply a, .tg-slider-widget .btn-wrapper a {
+    color: #f59331;
+}
+
+.blog-section .tg-blog-widget-layout-1 .tg-blog-widget:hover, #scroll-up, .header-bottom .search-wrap .search-box .searchform .btn:hover, .header-bottom .cart-wrap .flash-cart-views a span, body.transparent #masthead .header-bottom #site-navigation ul li a::before, .tg-slider-widget.slider-dark .btn-wrapper a:hover, .section-title:after, .about-section .about-content-wrapper .btn-wrapper a, .tg-service-widget .service-icon-wrap, .team-wrapper .team-content-wrapper .team-designation:after, .call-to-action-section .btn-wrapper a:hover, .blog-section .tg-blog-widget-layout-1:hover, .blog-section .tg-blog-widget-layout-2 .post-image .entry-date, .blog-section .tg-blog-widget-layout-2 .blog-content .post-readmore, .pricing-table-section .tg-pricing-table-widget:hover, .pricing-table-section .tg-pricing-table-widget.tg-pricing-table-layout-2 .pricing, .pricing-table-section .tg-pricing-table-widget.tg-pricing-table-layout-2 .btn-wrapper a, footer.footer-layout #top-footer .widget_tag_cloud .tagcloud a:hover, #secondary .widget-title:after, #secondary .searchform .btn:hover, #primary .searchform .btn:hover, #respond #commentform .form-submit input, .woocommerce span.onsale, .woocommerce ul.products li.product .onsale, .woocommerce ul.products li.product .button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .added_to_cart.wc-forward, .testimonial-container .swiper-pagination.testimonial-pager .swiper-pagination-bullet:hover, .testimonial-container .swiper-pagination.testimonial-pager .swiper-pagination-bullet.swiper-pagination-bullet-active, .header-bottom .searchform .btn, .navigation .nav-links a:hover, .bttn:hover, button, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .tg-slider-widget .btn-wrapper a:hover {
+    background-color: #f59331;
+}
+
+.feature-product-section .tg-feature-product-layout-2 .tg-container .tg-column-wrapper .tg-feature-product-widget .featured-image-desc, .tg-team-widget.tg-team-layout-3 .team-wrapper .team-img .team-social {
+    background-color: rgba(245, 147, 49, 0.8);
+}
+
+#respond #commentform .form-submit input:hover {
+    background-color: #e17f1d;
+}
+
+.tg-slider-widget.slider-dark .btn-wrapper a:hover, .call-to-action-section .btn-wrapper a:hover, footer.footer-layout #top-footer .widget_tag_cloud .tagcloud a:hover, .woocommerce-error, .woocommerce-info, .woocommerce-message, #comments .comment-list article.comment-body .reply a::before, .tg-slider-widget .btn-wrapper a, .tg-slider-widget .btn-wrapper a:hover {
+    border-color: #f59331;
+}
+
+body.transparent.header-sticky #masthead-sticky-wrapper.is-sticky #site-navigation ul li.current-flash-item a, #site-navigation ul li.current-flash-item a, body.transparent.header-sticky #masthead-sticky-wrapper #site-navigation ul li:hover > a, body.transparent #site-navigation ul li:hover .sub-toggle {
+    color: #f59331;
+}
+
+.tg-service-widget .service-icon-wrap:after {
+    border-top-color: #f59331;
+}
+
+body.transparent.header-sticky #masthead-sticky-wrapper .search-wrap .search-icon:hover, body.transparent .search-wrap .search-icon:hover, .header-bottom .search-wrap .search-icon:hover {
+    border-color: #f59331;
+}
+
+body.transparent.header-sticky #masthead-sticky-wrapper .search-wrap .search-icon:hover, body.transparent #masthead .header-bottom .search-wrap .search-icon:hover, .header-bottom .search-wrap .search-icon:hover, .breadcrumb-trail.breadcrumbs .trail-items li:first-child span:hover, .breadcrumb-trail.breadcrumbs .trail-items li span:hover a {
+    color: #f59331;
+}
+
+.woocommerce ul.products li.product .button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .added_to_cart.wc-forward:hover {
+    background-color: #e17f1d;
+}
+
+.feature-product-section .tg-feature-product-widget .featured-image-desc::before, .blog-section .row:nth-child(odd) .tg-blog-widget:hover .post-image::before {
+    border-right-color: #f59331;
+}
+
+.feature-product-section .tg-feature-product-widget .featured-image-desc::before, .blog-section .row:nth-child(odd) .tg-blog-widget:hover .post-image::before, footer.footer-layout #top-footer .widget-title, .blog-section .row:nth-child(2n) .tg-blog-widget:hover .post-image::before {
+    border-left-color: #f59331;
+}
+
+.blog-section .tg-blog-widget-layout-2 .entry-title a:hover,
+.blog-section .tg-blog-widget-layout-2 .tg-blog-widget:hover .blog-content .entry-title a:hover,
+.tg-blog-widget-layout-2 .read-more-container .entry-author:hover a,
+.tg-blog-widget-layout-2 .read-more-container .entry-author:hover,
+.blog-section .tg-blog-widget-layout-2 .read-more-container .read-more:hover a {
+    color: #e17f1d;
+}
+
+.tg-service-widget .service-more:hover {
+    color: #e17f1d;
+}
+
+@media (max-width: 980px) {
+    #site-navigation ul li.menu-item-has-children .sub-toggle {
+        background-color: #f59331;
+    }
+}
+
+@media screen and (min-width: 56.875em) {
+    .main-navigation li:hover > a,
+    .main-navigation li.focus > a {
+        color: #f59331;
+    }
+}
+
+/* Site Title */
+.site-branding {
+    margin: 0 auto 0 0;
+}
+
+.site-branding .site-title,
+.site-description {
+    clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+}
+
+.logo .logo-text {
+    padding: 0;
+}
+
+}
+
+.A2A_SHARE_SAVE-inline-css {
+    /*------------------------------------------------*/
+    /* layouts smaller than 600px, iPhone and mobiles */
+    @media only screen
+    and (max-width : 600px){
+        .logo{float: none; width: 80%; height: auto;}
+    }
+}
+
+.body {
+    font-family: "Ruda";
+}
+
+.recentcomments a{
+    display:inline !important;padding:0 !important;margin:0 !important;
+}
+
+all.siteorigin-panels-layouts-head {
+
+/* Layout 46 */
+#pgc-46-0-0, #pgc-46-2-0, #pgc-46-5-0, #pgc-46-7-0, #pgc-46-8-0, #pgc-46-10-0, #pgc-46-11-0, #pgc-46-12-0, #pgc-46-13-0 {
+    width: 100%;
+    width: calc(100% - (0 * 50px))
+}
+
+#pg-46-0, #pg-46-4, #pg-46-5, #pg-46-6, #pg-46-7, #pg-46-8, #pg-46-9, #pg-46-10, #pg-46-11, #pg-46-12, #pl-46 .so-panel, #pl-46 .so-panel:last-child {
+    margin-bottom: 0px
+}
+
+#pgc-46-1-0 {
+    width: 100%;
+    width: calc(100% - (0 * 0px))
+}
+
+#pg-46-1, #pg-46-2 {
+    margin-bottom: 50px
+}
+
+#pgc-46-3-0, #pgc-46-3-1, #pgc-46-3-2 {
+    width: 33.3333%;
+    width: calc(33.3333% - (0.66666666666667 * 20px))
+}
+
+#pg-46-3 {
+    margin-bottom: 15px
+}
+
+#pgc-46-4-0, #pgc-46-4-1, #pgc-46-6-0, #pgc-46-6-1, #pgc-46-9-0, #pgc-46-9-1 {
+    width: 50%;
+    width: calc(50% - (0.5 * 50px))
+}
+
+#pg-46-0 > .panel-row-style, #pg-46-7 > .panel-row-style, #pg-46-10 > .panel-row-style, #pg-46-12 > .panel-row-style {
+    margin-top: -110px;
+    height: 110px
+}
+
+#pg-46-0.panel-no-style, #pg-46-0.panel-has-style > .panel-row-style, #pg-46-1.panel-no-style, #pg-46-1.panel-has-style > .panel-row-style, #pg-46-2.panel-no-style, #pg-46-2.panel-has-style > .panel-row-style, #pg-46-3.panel-no-style, #pg-46-3.panel-has-style > .panel-row-style, #pg-46-4.panel-no-style, #pg-46-4.panel-has-style > .panel-row-style, #pg-46-5.panel-no-style, #pg-46-5.panel-has-style > .panel-row-style, #pg-46-6.panel-no-style, #pg-46-6.panel-has-style > .panel-row-style, #pg-46-7.panel-no-style, #pg-46-7.panel-has-style > .panel-row-style, #pg-46-8.panel-no-style, #pg-46-8.panel-has-style > .panel-row-style, #pg-46-9.panel-no-style, #pg-46-9.panel-has-style > .panel-row-style, #pg-46-10.panel-no-style, #pg-46-10.panel-has-style > .panel-row-style, #pg-46-11.panel-no-style, #pg-46-11.panel-has-style > .panel-row-style, #pg-46-12.panel-no-style, #pg-46-12.panel-has-style > .panel-row-style, #pg-46-13.panel-no-style, #pg-46-13.panel-has-style > .panel-row-style {
+    -webkit-align-items: flex-start;
+    align-items: flex-start
+}
+
+#pg-46-3 > .panel-row-style {
+    padding: 0px 0px 20px 0px
+}
+
+#pgc-46-3-0 {
+    align-self: auto
+}
+
+#panel-46-3-0-0 > .panel-widget-style {
+    background-image: url(wp-content/uploads/2017/06/employer.jpg);
+    background-position: center center;
+    background-size: cover;
+    color: #ffffff;
+    padding: 15px 15px 15px 15px;
+    margin-bottom: 15px
+}
+
+#panel-46-3-0-0 a, #panel-46-3-1-0 a, #panel-46-3-2-0 a {
+    color: #ffffff
+}
+
+#panel-46-3-1-0 > .panel-widget-style {
+    background-image: url(http://localhost/tigress/wp-content/uploads/2017/06/students.jpg);
+    background-position: center center;
+    background-size: cover;
+    color: #ffffff;
+    padding: 15px 15px 15px 15px;
+    margin-bottom: 15px
+}
+
+#panel-46-3-2-0 > .panel-widget-style {
+    background-image: url(http://localhost/tigress/wp-content/uploads/2017/06/career-services.jpg);
+    background-position: center center;
+    background-size: cover;
+    color: #ffffff;
+    padding: 15px 15px 15px 15px;
+    margin-bottom: 15px
+}
+
+#pg-46-4 > .panel-row-style {
+    background-color: #f1eaf3;
+    padding: 50px 0px 50px 0px
+}
+
+#pg-46-5 > .panel-row-style, #pg-46-11 > .panel-row-style {
+    padding: 50px 0px 0px 0px
+}
+
+#panel-46-5-0-2 > .panel-widget-style, #panel-46-8-0-2 > .panel-widget-style {
+    padding: 0px 0px 50px 0px
+}
+
+#pg-46-6 > .panel-row-style, #pg-46-9 > .panel-row-style {
+    background-color: #efefef;
+    padding: 50px 0px 50px 0px
+}
+
+#pg-46-8 > .panel-row-style, #pg-46-13 > .panel-row-style {
+    padding: 50px 0px 50px 0px
+}
+
+@media (max-width: 780px) {
+    #pg-46-0.panel-no-style, #pg-46-0.panel-has-style > .panel-row-style, #pg-46-1.panel-no-style, #pg-46-1.panel-has-style > .panel-row-style, #pg-46-2.panel-no-style, #pg-46-2.panel-has-style > .panel-row-style, #pg-46-3.panel-no-style, #pg-46-3.panel-has-style > .panel-row-style, #pg-46-4.panel-no-style, #pg-46-4.panel-has-style > .panel-row-style, #pg-46-5.panel-no-style, #pg-46-5.panel-has-style > .panel-row-style, #pg-46-6.panel-no-style, #pg-46-6.panel-has-style > .panel-row-style, #pg-46-7.panel-no-style, #pg-46-7.panel-has-style > .panel-row-style, #pg-46-8.panel-no-style, #pg-46-8.panel-has-style > .panel-row-style, #pg-46-9.panel-no-style, #pg-46-9.panel-has-style > .panel-row-style, #pg-46-10.panel-no-style, #pg-46-10.panel-has-style > .panel-row-style, #pg-46-11.panel-no-style, #pg-46-11.panel-has-style > .panel-row-style, #pg-46-12.panel-no-style, #pg-46-12.panel-has-style > .panel-row-style, #pg-46-13.panel-no-style, #pg-46-13.panel-has-style > .panel-row-style {
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column
+    }
+
+    #pg-46-0 .panel-grid-cell, #pg-46-1 .panel-grid-cell, #pg-46-2 .panel-grid-cell, #pg-46-3 .panel-grid-cell, #pg-46-4 .panel-grid-cell, #pg-46-5 .panel-grid-cell, #pg-46-6 .panel-grid-cell, #pg-46-7 .panel-grid-cell, #pg-46-8 .panel-grid-cell, #pg-46-9 .panel-grid-cell, #pg-46-10 .panel-grid-cell, #pg-46-11 .panel-grid-cell, #pg-46-12 .panel-grid-cell, #pg-46-13 .panel-grid-cell {
+        margin-right: 0
+    }
+
+    #pg-46-0 .panel-grid-cell, #pg-46-1 .panel-grid-cell, #pg-46-2 .panel-grid-cell, #pg-46-3 .panel-grid-cell, #pg-46-4 .panel-grid-cell, #pg-46-5 .panel-grid-cell, #pg-46-6 .panel-grid-cell, #pg-46-7 .panel-grid-cell, #pg-46-8 .panel-grid-cell, #pg-46-9 .panel-grid-cell, #pg-46-10 .panel-grid-cell, #pg-46-11 .panel-grid-cell, #pg-46-12 .panel-grid-cell, #pg-46-13 .panel-grid-cell {
+        width: 100%
+    }
+
+    #pgc-46-3-0, #pgc-46-3-1, #pgc-46-4-0, #pgc-46-6-0, #pgc-46-9-0, #pl-46 .panel-grid .panel-grid-cell-mobile-last {
+        margin-bottom: 0px
+    }
+
+    #pl-46 .panel-grid-cell {
+        padding: 0
+    }
+
+    #pl-46 .panel-grid .panel-grid-cell-empty {
+        display: none
+    }
+
+    #pg-46-3 > .panel-row-style {
+        padding: 0px 0px 20px 0px
+    }
+
+    #panel-46-3-0-0 > .panel-widget-style, #panel-46-3-1-0 > .panel-widget-style, #panel-46-3-2-0 > .panel-widget-style {
+        padding: 15px 15px 15px 15px
+    }
+
+    #pg-46-13 > .panel-row-style {
+        padding: 50px 0px 50px 0px
+    }
+    }
+}
+.wp-custom-css {
+    /*
+    You can add your own CSS here. */
+
+    div#pgc-155-0-0, div#pgc-300-0-0, div#pgc-313-0-0 {
+        z-index: 0;
+    }
+
+    .feature-product-section .tg-feature-product-layout-3 .featured-image-desc:hover {
+        cursor: pointer;
+        opacity: 1;
+    }
+
+    div#panel-46-12-0-0 {
+        margin-bottom: 0px !important;
+    }
+
+    #panel-46-3-0-0> .panel-widget-style,
+    #panel-46-3-1-0> .panel-widget-style,
+    #panel-46-3-2-0> .panel-widget-style {
+        min-height: 260px;
+    }
+
+    .hidden_content {
+        display: none !important;
+    }
+
+    .slider-content .tg-container .caption-title {
+        text-transform: capitalize;
+    }
+
+    @media screen and (max-width: 960px) {
+        #site-logo.title-right {
+            display: block;
+            margin: 0 auto;
+            padding-right: 0;
+            text-align: center;
+            width: 100%;
+        }
+        #site-logo.title-right {
+            display: block;
+            margin: 0 auto;
+            padding-right: 0;
+            text-align: center;
+            width: 100%;
+        }
+    }
+}
+
+.lcs_logo_container a.lcs_logo_link:hover { border: 1px solid #A0A0A0; ?>; }
+.lcs_logo_container a:hover img { -moz-transform: scale(1.05); -webkit-transform: scale(1.05); -o-transform: scale(1.05); -ms-transform: scale(1.05); transform: scale(1.05); }
+.lcs_logo_container a.lcs_logo_link, .lcs_logo_container a.lcs_logo_link:hover { border: none; }
+#lcs_logo_carousel_wrapper .owl-nav {
+    position: absolute;
+    right: 0;
+    margin-top: 0;
+    top: -34px;
+}
+#lcs_logo_carousel_wrapper .owl-nav div {
+    background: #ffffff;
+    border-radius: 2px;
+    margin: 2px;
+    padding: 0;
+    width: 27px;
+    height: 27px;
+    line-height: 20px;
+    font-size: 22px;
+    color: #ccc;
+    border: 1px solid #ccc;
+    opacity: 1;
+    z-index: 999;
+    -moz-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    -webkit-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+}
+
+
+
